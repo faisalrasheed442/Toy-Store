@@ -1,0 +1,7 @@
+ID,Name,Category,Sale Quantity,Item Price,Total
+1,car,ground,12,200,2400
+2,truck,truck,371,500,185500
+3,plane,air,96,300,28800
+4,Fast Plane,plane,110,300,33000
+5,Plane,air,0,300,0
+6,Plane,air,0,25,0
